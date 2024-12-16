@@ -1,4 +1,4 @@
-name: gs
+name: gstes
 channels:
   - pytorch
   - conda-forge
